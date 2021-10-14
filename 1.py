@@ -21,3 +21,4 @@ modulo animal
  @staticmethod
  def get_numAnimales():
  return numAnimales
+ print('Hola')
